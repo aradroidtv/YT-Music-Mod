@@ -2,7 +2,7 @@
 
 **Pemutar musik web gratis** bergaya Spotify, katalog [YouTube Music](https://music.youtube.com). Tanpa akun.
 
-- **Website:** [richmusic.vercel.app](https://aramusic.vercel.app)
+- **Website:** [aramusic.vercel.app](https://aramusic.vercel.app)
 - **Repo:** [github.com/aradroidtv/YT-Music-Mod](https://github.com/aradroidtv/YT-Music-Mod)
 
 Project ini **gratis** dan **bebas dipakai**. Fork, ubah, deploy sendiri, atau bagikan — silakan.
