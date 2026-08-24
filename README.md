@@ -21,7 +21,7 @@ Tidak berafiliasi dengan YouTube, Google, atau Spotify.
 
 ## Cara memakai website
 
-1. Buka **[richmusic.vercel.app](https://aramusic.vercel.app)**
+1. Buka **[aramusic.vercel.app](https://aramusic.vercel.app)**
 2. Cari lagu, atau pilih dari Home / Charts / Browse all
 3. Lagu pertama langsung play. Kalau klik lagu lain, Now Playing menampilkan lagu baru — tekan **Play** untuk mengganti putaran
 4. Ikon hati = favorit. **Playlist** = simpan ke folder. Di halaman album/artis, **Save** masuk tab Saved
@@ -114,7 +114,7 @@ Tanpa login, tersimpan di perangkat ini.
 Perlu [Node.js](https://nodejs.org) 18+ (disarankan 20).
 
 ```bash
-git clone https://github.com/ramax100/YT-Music-Mod.git
+git clone https://github.com/aradroidtv/YT-Music-Mod.git
 cd YT-Music-Mod
 npm install
 npm start
@@ -159,4 +159,4 @@ Jalankan, bagikan, ubah, dan deploy ulang sesukamu. Tidak ada biaya.
 
 ---
 
-**[Buka Rich Music](https://aramusic.vercel.app)** · · **[GitHub](https://github.com/aradroidtv/YT-Music-Mod)**
+**[Buka ARA Music](https://aramusic.vercel.app)** · · **[GitHub](https://github.com/aradroidtv/YT-Music-Mod)**
